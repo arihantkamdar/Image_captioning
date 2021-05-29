@@ -7,13 +7,15 @@ The Dataset of Flickr_8k can we downloaded from [kaggle](:https://www.kaggle.com
 See the demo of captions generated using the model
 
 
-![image1](/images/beach.jpg)
+![image1](https://drive.google.com/file/d/1AeiDfyHHl000KjIShqCo6lfV4YunpFo_/view?usp=sharing)
+
 Caption: start dog runs through the water end
 
-![image2](/images/child.png)
+![image2](https://drive.google.com/file/d/14AWldWDwKnXzGLGAX8jX8UiFcddYGyHG/view?usp=sharing)
+
 Caption: start man in blue shirt and jeans is riding bicycle on the street end
 
-![image3](/image/image.jpg)
+![image3](https://drive.google.com/file/d/1jHx-XlKFFH_I4Hbn_iq4F1DSjbxdlsSp/view?usp=sharing)
 start boy is playing softball end
 
 
