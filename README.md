@@ -1,5 +1,5 @@
 # Image_captioning
-##A image Captioning project based in Deep learning using Flickr_8k dataset.
+## A image Captioning project based in Deep learning using Flickr_8k dataset.
 
 
 The Dataset of Flickr_8k can we downloaded from [kaggle](:https://www.kaggle.com/adityajn105/flickr8k)
@@ -21,7 +21,7 @@ Caption: start boy is playing softball end
 
 
 
-#How to use the repository
+# How to use the repository
 
 1. Download the dataset and open image_captioning.ipynb
 2. Unzip the dataset and set the directories in the python notebook
